@@ -4,6 +4,8 @@
 ![image](https://raw.githubusercontent.com/hodl-club/hodl-club/main/images/i_am_hodling.jpg)  
 
 
+### 反馈联系
+hodlclub1101#gmail.com（#改为@）  
 
 
 ### License
