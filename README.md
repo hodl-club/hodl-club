@@ -4,7 +4,7 @@
   </a>
 </p>
 
-# HODL CLUB / 囤币党社区 〈[https://git.io/hodlclub](https://git.io/hodlclub)〉
+# Hodl Club / 囤币党社区 〈[https://git.io/hodlclub](https://git.io/hodlclub)〉
 
 ![image](https://img.shields.io/badge/build-passing-brightgreen)
 ![image](https://img.shields.io/badge/license-MIT-red)
