@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/hodlclub" target="_blank">
+  <a href="https://github.com/hodl-club/hodl-club" target="_blank">
     <img src="https://raw.githubusercontent.com/hodl-club/hodl-club/main/images/hodl_club_logo.png" alt="Hodl Club" width="585px" style="max-width:100%;" />
   </a>
 </p>
