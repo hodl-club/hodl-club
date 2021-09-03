@@ -38,10 +38,20 @@
 hodlclub1101#gmail.com（#改为@）  
 
 
-### License
-MIT
+### 支持浏览器  
+<p>
+<img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" />
+<img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/firefox.png" width="64" />
+<img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/edge.png" width="64" />
+<img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/safari.png" width="64" />
+<img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/opera.png" width="64" />
+</p>
 
-Copyright (c) 2021 HODL CLUB
+
+### 开源协议
+MIT License
+
+Copyright (c) 2021 Hodl Club
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
