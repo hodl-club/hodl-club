@@ -14,11 +14,19 @@
 
 缘起：距离比特币信仰导师ahr999九神微博被封（2021/08/19）已过去5天，九神之前表示如果哪一天微博被封，不会再开微博，也不会去外网，习惯了每天刷刷九神微博，当大饼价格暴涨暴跌的时候，看云卷云舒、淡定从容，九神也许永远地离开了我们，似乎枯燥的信仰之路从此缺少了一个支点，遂决定将九神历年微博辑录成册，后续陆续会加入其他KOL文集，以供后来者学习参考，囤币党社区打算做一个存活119年的开源项目，直到2140比特币全部开采完的那天，如果能获得一定数量的HODLer支持，本项目会加入GitHub Arctic Code Vault - 北极开源贡献者计划，望流传1000年，至死不渝。  
 
-HODL = Hold On for Dear Life  
-Stay strong, HODL even when the price drops.  
+**`HODL = Hold On for Dear Life`**  
+**`Stay strong, HODL even when the price drops.`**  
 
-贝索斯说：“有一次我问巴菲特，你的投资理念非常简单，为什么大家不直接复制你的做法呢？”  
-巴菲特说： “因为没有人愿意慢慢地变富。”  
+>贝索斯说：“有一次我问巴菲特，你的投资理念非常简单，为什么大家不直接复制你的做法呢？”  
+>巴菲特说： “因为没有人愿意慢慢地变富。”  
+
+
+### 参考指数
+* [AHR999囤币指标-何时定投或抄底](https://www.qkl123.com/data/ahr999/btc)    
+* [S2F指标-比特币稀缺性估值](https://www.qkl123.com/data/s2f/btc)  
+* [SOPR指标-短期是顶还是底](https://www.qkl123.com/data/sopr/btc)  
+* [泡沫指标-与囤币指标异曲同工](https://www.qkl123.com/data/bubble/btc)    
+* [MVRV指标-长期是牛还是熊](https://www.qkl123.com/data/mvrv/btc)    
 
 
 ### 反馈联系
