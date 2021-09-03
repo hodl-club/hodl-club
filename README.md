@@ -29,6 +29,11 @@
 * [MVRV指标-长期是牛还是熊](https://www.qkl123.com/data/mvrv/btc)    
 
 
+### 捐赠我们   
+**BTC**：`1C9WBBtWWncLnM7EKFehwweMYN4ET1SDmm`  
+**ETH**：`0x642A7fcbc0A3dFB9D510EA986e65701d6D692020`  
+
+
 ### 反馈联系
 hodlclub1101#gmail.com（#改为@）  
 
