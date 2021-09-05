@@ -22,7 +22,7 @@
 
 
 ### 整理文集
-* 囤比特币及作者微博内容精选PDF（预计2021.09.04发布）  
+* [囤比特币及作者微博内容精选_HodlClub版](https://github.com/hodl-club/hodl-club/blob/main/%E5%BE%AE%E5%8D%9AKOL/A.ahr999/%E5%9B%A4%E6%AF%94%E7%89%B9%E5%B8%81%E5%8F%8A%E4%BD%9C%E8%80%85%E5%BE%AE%E5%8D%9A%E5%86%85%E5%AE%B9%E7%B2%BE%E9%80%89_HodlClub%E7%89%88.pdf) 
 * AHR999九神历年微博合集珍藏版PDF（预计2021.09.07发布）  
 
 
