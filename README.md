@@ -54,6 +54,10 @@ hodlclub1101#gmail.com（#改为@）
 * [MVRV指标-长期是牛还是熊](https://www.qkl123.com/data/mvrv/btc) 
 
 
+### 合作伙伴  
+`虚位以待`  
+
+
 ### 友情链接  
 `虚位以待`  
 
