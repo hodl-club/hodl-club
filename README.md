@@ -10,7 +10,7 @@
 ![image](https://img.shields.io/badge/license-MIT-red)
 ![image](https://img.shields.io/badge/stars-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-brightgreen) 
 ![image](https://img.shields.io/badge/platform-linux%20%7C%20macos%20%7C%20windows-lightgrey) 
-![image](https://img.shields.io/badge/stars-25-lightgrey?logo=github&style=social) 
+![image](https://img.shields.io/badge/stars-30-lightgrey?logo=github&style=social) 
 
 缘起：距离比特币信仰导师ahr999九神微博被封（2021/08/19）已过去5天，九神之前表示如果哪一天微博被封，不会再开微博，也不会去外网，习惯了每天刷刷九神微博，当大饼价格暴涨暴跌的时候，看云卷云舒、淡定从容，九神也许永远地离开了我们，似乎枯燥的信仰之路从此缺少了一个支点，遂决定将九神历年微博辑录成册，后续陆续会加入其他KOL文集，以供后来者学习参考，囤币党社区打算做一个存活119年的开源项目，直到2140比特币全部开采完的那天，如果能获得一定数量的HODLer支持，本项目会加入GitHub Arctic Code Vault - 北极开源贡献者计划，至死不渝，流传1000年！
 
@@ -22,7 +22,7 @@
 
 
 ### 整理文集
-* [囤比特币及作者微博内容精选_HodlClub版](https://github.com/hodl-club/hodl-club/blob/main/%E5%BE%AE%E5%8D%9AKOL/A.ahr999/%E5%9B%A4%E6%AF%94%E7%89%B9%E5%B8%81%E5%8F%8A%E4%BD%9C%E8%80%85%E5%BE%AE%E5%8D%9A%E5%86%85%E5%AE%B9%E7%B2%BE%E9%80%89_HodlClub%E7%89%88.pdf) 
+* 囤比特币及作者微博内容精选_HodlClub版 [GitHub下载](https://github.com/hodl-club/hodl-club/raw/main/%E5%BE%AE%E5%8D%9AKOL/A.ahr999/%E5%9B%A4%E6%AF%94%E7%89%B9%E5%B8%81%E5%8F%8A%E4%BD%9C%E8%80%85%E5%BE%AE%E5%8D%9A%E5%86%85%E5%AE%B9%E7%B2%BE%E9%80%89_HodlClub%E7%89%88.pdf) [阿里云盘下载](https://www.aliyundrive.com/s/LthUQyEJxs7)  
 * AHR999九神历年微博2014~2021合集2990条珍藏_HodlClub版（预计2021.09.07发布）  
 
 
