@@ -25,7 +25,8 @@
 * 《囤比特币及作者微博内容精选_HodlClub版》  
 [➣GitHub下载](https://github.com/hodl-club/hodl-club/raw/main/%E5%BE%AE%E5%8D%9AKOL/A.ahr999/%E5%9B%A4%E6%AF%94%E7%89%B9%E5%B8%81%E5%8F%8A%E4%BD%9C%E8%80%85%E5%BE%AE%E5%8D%9A%E5%86%85%E5%AE%B9%E7%B2%BE%E9%80%89_HodlClub%E7%89%88.pdf)  
 [➣AliyunDrive下载/推荐](https://www.aliyundrive.com/s/LthUQyEJxs7)  
-* 《AHR999九神历年微博2014~2021合集2990条珍藏_HodlClub版》（预计2021.09.07发布）  
+* 《AHR999九神历年微博2014~2021合集2990条珍藏_HodlClub版》  
+[➣AliyunDrive下载/推荐](https://www.aliyundrive.com/s/Eh7qHkwvHVm)    
 
 
 ### 参考指数
@@ -48,6 +49,7 @@ hodlclub1101#gmail.com（#改为@）
 ### 招募翻译  
 1、语种为英语、法语、德语、俄语、日语等  
 2、主要工作为译制文集为外国语言  
+3、无酬劳，后期可以参与HodlClub决策
 
   
 ### 友情链接  
