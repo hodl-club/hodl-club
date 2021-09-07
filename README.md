@@ -29,14 +29,6 @@
 [➣AliyunDrive下载/推荐](https://www.aliyundrive.com/s/Eh7qHkwvHVm)    
 
 
-### 参考指数
-* [AHR999囤币指标-何时定投或抄底](https://www.qkl123.com/data/ahr999/btc)    
-* [S2F指标-比特币稀缺性估值](https://www.qkl123.com/data/s2f/btc)  
-* [SOPR指标-短期是顶还是底](https://www.qkl123.com/data/sopr/btc)  
-* [泡沫指标-与囤币指标异曲同工](https://www.qkl123.com/data/bubble/btc)    
-* [MVRV指标-长期是牛还是熊](https://www.qkl123.com/data/mvrv/btc)    
-
-
 ### 捐赠我们   
 **BTC**：`1C9WBBtWWncLnM7EKFehwweMYN4ET1SDmm`  
 **ETH**：`0x642A7fcbc0A3dFB9D510EA986e65701d6D692020`  
@@ -51,7 +43,15 @@ hodlclub1101#gmail.com（#改为@）
 2、主要工作为译制文集为外国语言  
 3、无酬劳，后期可以参与HodlClub决策
 
-  
+
+### 参考指数
+* [AHR999囤币指标-何时定投或抄底](https://www.qkl123.com/data/ahr999/btc)    
+* [S2F指标-比特币稀缺性估值](https://www.qkl123.com/data/s2f/btc)  
+* [SOPR指标-短期是顶还是底](https://www.qkl123.com/data/sopr/btc)  
+* [泡沫指标-与囤币指标异曲同工](https://www.qkl123.com/data/bubble/btc)    
+* [MVRV指标-长期是牛还是熊](https://www.qkl123.com/data/mvrv/btc) 
+
+
 ### 友情链接  
 `虚位以待`  
 
