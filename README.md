@@ -45,6 +45,15 @@
 hodlclub1101#gmail.com（#改为@）  
 
 
+### 招募翻译  
+1、语种为英语、法语、德语、俄语、日语等  
+2、主要工作为译制文集为外国语言  
+
+  
+### 友情链接  
+`虚位以待`  
+
+
 ### 支持浏览器  
 <p>
 <img src="https://s3.amazonaws.com/creativetim_bucket/github/browser/chrome.png" width="64" />
