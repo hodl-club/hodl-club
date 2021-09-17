@@ -24,12 +24,15 @@
 
 
 ### 整理文集
-* 《囤比特币及作者微博内容精选_HodlClub版》  
-[➣GitHub下载](https://github.com/hodl-club/hodl-club/raw/main/%E5%BE%AE%E5%8D%9AKOL/A.ahr999/%E5%9B%A4%E6%AF%94%E7%89%B9%E5%B8%81%E5%8F%8A%E4%BD%9C%E8%80%85%E5%BE%AE%E5%8D%9A%E5%86%85%E5%AE%B9%E7%B2%BE%E9%80%89_HodlClub%E7%89%88.pdf)  
-[➣AliyunDrive下载/推荐](https://www.aliyundrive.com/s/LthUQyEJxs7)  
-* 《AHR999九神历年微博2014~2021合集2990条珍藏_HodlClub版》  
-[➣AliyunDrive下载/推荐](https://www.aliyundrive.com/s/Eh7qHkwvHVm)    
-* 《船长∙手中无比特文集合集》（预计2021.09.23发布）  
+* ahr999/九神     
+  * 《囤比特币及作者微博内容精选_HodlClub版》  
+  [➣GitHub下载](https://github.com/hodl-club/hodl-club/raw/main/%E5%BE%AE%E5%8D%9AKOL/A.ahr999/%E5%9B%A4%E6%AF%94%E7%89%B9%E5%B8%81%E5%8F%8A%E4%BD%9C%E8%80%85%E5%BE%AE%E5%8D%9A%E5%86%85%E5%AE%B9%E7%B2%BE%E9%80%89_HodlClub%E7%89%88.pdf)  
+  [➣AliyunDrive下载/推荐](https://www.aliyundrive.com/s/LthUQyEJxs7)  
+  * 《AHR999九神历年微博2014~2021合集2990条珍藏_HodlClub版》  
+  [➣AliyunDrive下载/推荐](https://www.aliyundrive.com/s/Eh7qHkwvHVm)  
+
+* 船长/手中无比特  
+  * 《船长手中无比特文集合集》（预计2021.09.23发布）  
 
 
 ### 捐赠我们   
