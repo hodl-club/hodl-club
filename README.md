@@ -29,6 +29,7 @@
 [➣AliyunDrive下载/推荐](https://www.aliyundrive.com/s/LthUQyEJxs7)  
 * 《AHR999九神历年微博2014~2021合集2990条珍藏_HodlClub版》  
 [➣AliyunDrive下载/推荐](https://www.aliyundrive.com/s/Eh7qHkwvHVm)    
+* 《船长∙手中无比特文集合集》（预计2021.09.23发布）  
 
 
 ### 捐赠我们   
