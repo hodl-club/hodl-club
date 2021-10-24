@@ -32,7 +32,8 @@
   [➣AliyunDrive下载/推荐](https://www.aliyundrive.com/s/Eh7qHkwvHVm)  
 
 * 船长/手中无比特  
-  * 《船长手中无比特文集合集》（预计2021.10.10发布）  
+  * 《船长手中无比特文集合集》 
+  [➣AliyunDrive下载/推荐](https://www.aliyundrive.com/s/eCo34E6EXRc) 
 
 
 ### 捐赠我们   
